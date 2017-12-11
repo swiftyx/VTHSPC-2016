@@ -1,5 +1,6 @@
-# VTHST 2016
-2016 Virginia Tech High School Programming Contest, place: [22/101](https://icpc.cs.vt.edu/hs/2016/vths2016scoreboard.html)
+# 3rd Virginia Tech High School Programming Contest
+
+Place: [22/101](https://icpc.cs.vt.edu/hs/2016/vths2016scoreboard.html)
 
 ## Official Answer
 - [Website](https://icpc.cs.vt.edu/#/hscontest2016)
